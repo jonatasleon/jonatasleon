@@ -12,7 +12,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/bc96a56ac6dc4a8eb918a1e35c6f51e7.png?r=3a3"
+      src="https://github.com/jonatasleon/jonatasleon/blob/main/devcard.svg"
     />
   </a>
 </div>
