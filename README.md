@@ -1,14 +1,20 @@
 ### Hi there 👋
 
-I'm Jonatas Leon, a **Software Engineer** from 🇧🇷 with over **9 years of experience** delivering innovative solutions. My focus lies in creating impactful projects with a strong emphasis on **Python** and **ReactJS**, blending back-end excellence with engaging front-end interfaces.
+I'm **Jonatas Leon**, a 🇧🇷 **Data Engineer & Software Architect** with over **10 years of experience** turning complex ideas into scalable systems. I specialize in designing and building **data pipelines**, **intelligent APIs**, and **LLM-powered applications** that make sense of messy, unstructured information.
 
-Here’s what I specialize in:
+---
 
-- 🐍 **Python**: My favorite language for developing **APIs**, **ETL processes**, and crafting scalable back-end systems with frameworks like FastAPI and Flask.
-- ⚛️ **ReactJS**: Building intuitive and responsive interfaces with Redux, TailwindCSS, and MaterialUI.
-- 🌐 **Web GIS**: Developing geographic information systems and data visualizations powered by **PostgreSQL/PostGIS**, spatial data, and tools like D3.js, Chart.js, and Matplotlib.
-- 🛠️ **Tech Stack**: Strong expertise with PostgreSQL, MongoDB, Redis, Docker, and GitHub Actions for seamless development and deployment.
+### 🚀 What I do best:
 
-Beyond coding, I’m always eager to collaborate, innovate, and grow with like-minded professionals. Let’s create something amazing together!
+- 🧠 **Data Engineering**: Designing robust data architectures, from **ETL/ELT pipelines** to **Medallion Architectures** with tools like **Airflow**, **Spark**, **Delta Lake**, **dbt**, and **PostgreSQL**.
+- 🤖 **AI/LLM Integration**: Prototyping and deploying applications using **OpenAI**, **LangChain**, and **vector databases**, with a focus on **retrieval-augmented generation (RAG)** and intelligent document processing.
+- ⚙️ **Python Power**: My go-to for back-end logic, automation, and performance—leveraging **FastAPI**, **SQLAlchemy**, and async patterns.
+- 📊 **Data Visualization & GIS**: Crafting rich insights using **PostGIS**, **D3.js**, **Matplotlib**, and **interactive maps**.
+- ☁️ **Dev & Cloud Stack**: Proficient with **Docker**, **GitHub Actions**, **uv**, **Zsh/tmux workflows**, and cloud integrations (**AWS**, **Databricks**).
 
-📫 Feel free to reach out: [me@jonatasleon.com](mailto:me@jonatasleon.com)
+---
+
+I'm always open to collaborating with forward-thinking people building real-world impact through data, automation, and AI.
+
+📫 Reach out anytime: [me@jonatasleon.com](mailto:me@jonatasleon.com)  
+🌐 Website: [jonatasleon.com](https://jonatasleon.com)
