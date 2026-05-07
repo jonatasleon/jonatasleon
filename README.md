@@ -1,20 +1,17 @@
-### Hi there 👋
+### Hi 👋
 
-I'm **Jonatas Leon**, a 🇧🇷 **Data Engineer & Software Architect** with over **10 years of experience** turning complex ideas into scalable systems. I specialize in designing and building **data pipelines**, **intelligent APIs**, and **LLM-powered applications** that make sense of messy, unstructured information.
+I'm Jonatas — data eng & software architect from Brazil 🇧🇷, mostly building pipelines, APIs, and tools that try to make sense of messy data. Lately with a lot of LLM in the mix.
 
----
+#### 🛠️ What I'm building these days
+- Data pipelines with Airflow + Spark + Delta + dbt (medallion, ELT, the usual)
+- Python services & APIs — FastAPI, SQLAlchemy, async patterns
+- LLM-powered apps — RAG, document processing, OpenAI / LangChain + vector DBs
+- Geospatial stuff with PostGIS, interactive maps, viz with D3 / Matplotlib
 
-### 🚀 What I do best:
+#### 🧪 Daily driver
+Python · Postgres · Docker · GitHub Actions · uv · zsh + tmux · AWS / Databricks
 
-- 🧠 **Data Engineering**: Designing robust data architectures, from **ETL/ELT pipelines** to **Medallion Architectures** with tools like **Airflow**, **Spark**, **Delta Lake**, **dbt**, and **PostgreSQL**.
-- 🤖 **AI/LLM Integration**: Prototyping and deploying applications using **OpenAI**, **LangChain**, and **vector databases**, with a focus on **retrieval-augmented generation (RAG)** and intelligent document processing.
-- ⚙️ **Python Power**: My go-to for back-end logic, automation, and performance—leveraging **FastAPI**, **SQLAlchemy**, and async patterns.
-- 📊 **Data Visualization & GIS**: Crafting rich insights using **PostGIS**, **D3.js**, **Matplotlib**, and **interactive maps**.
-- ☁️ **Dev & Cloud Stack**: Proficient with **Docker**, **GitHub Actions**, **uv**, **Zsh/tmux workflows**, and cloud integrations (**AWS**, **Databricks**).
+#### 🤝 Happy to collab on
+open-source around data engineering, automation, and AI tooling — especially anything that takes a real chunk of pain out of someone's workflow. Drop an issue, open a PR, or just say hi.
 
----
-
-I'm always open to collaborating with forward-thinking people building real-world impact through data, automation, and AI.
-
-📫 Reach out anytime: [me@jonatasleon.com](mailto:me@jonatasleon.com)  
-🌐 Website: [jonatasleon.com](https://jonatasleon.com)
+📫 [me@jonatasleon.com](mailto:me@jonatasleon.com) · 🌐 [jonatasleon.com](https://jonatasleon.com)
